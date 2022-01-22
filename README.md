@@ -4,7 +4,7 @@
 
 I am a full-stack web application developer. I have a website and learning code for almost 2 years and I have experience in Website development. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON / DJANGO / REACT JS / DATABASE ORM / PHP
 
 - 🔭 I’m currently working on <a href="https://kaptifi.com/">Kaptifi</a> 
 - 🌱 I’m currently learning Solidity, DApp 
