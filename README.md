@@ -1,5 +1,5 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="arslandevpy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/arslandevpy?trk=profile-badge">Muhammad Arslan</a></div>
+<script src='https://platform.linkedin.com/badges/js/profile.js' async defer type='text/javascript'>
+
               
 ### Hi there 👋, My name is Muhammad Arslan.
 #### Python | Django Developer | React JS | Django Channels | Django Rest Framework
