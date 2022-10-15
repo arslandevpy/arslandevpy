@@ -1,6 +1,3 @@
-<script src='https://platform.linkedin.com/badges/js/profile.js' async defer type='text/javascript'>
-
-              
 ### Hi there 👋, My name is Muhammad Arslan.
 #### Python | Django Developer | React JS | Django Channels | Django Rest Framework
 Python | Django Developer | React JS
