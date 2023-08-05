@@ -1,9 +1,9 @@
-### Hi there 👋, My name is Muhammad Arslan.
-#### Full-Stack Developer | Python, Django, DRF, Django Celery, Celery Workflow, VUE JS & Pinia
-Full-Stack Developer | Python, Django, DRF, Django Celery, Celery Workflow, VUE JS & Pinia
 <p align="center" width="100%">
     <img width="100%" src="img/img3.jpg">
 </p>
+
+### Hi there 👋, My name is Muhammad Arslan.
+### Full-Stack Developer | Python, Django, DRF, Django Celery, Celery Workflow, VUE JS & Pinia
 
 I am a full-stack web application developer. I have a website and learning code for 2+ years and I have experience in Website development. 
 
