@@ -5,7 +5,7 @@
 ### Hi there 👋, My name is Muhammad Arslan.
 ### Full-Stack Developer | Python, Django, DRF, Django Celery, Celery Workflow, VUE JS & Pinia
 
-I am a full-stack web application developer. I have a website and learning code for 2+ years and I have experience in Website development. 
+I am a full-stack web application developer. I have a website and learning code for 3+ years and I have experience in Website development. 
 
 Skills: PYTHON / DJANGO / Vue JS / DATABASE ORM / PHP / Django Channels / Django Rest Framework
 
