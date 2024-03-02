@@ -2,7 +2,8 @@
     <img width="100%" src="img/img3.jpg">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=40&pause=1000&color=1A63F7&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Arslan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=40&pause=1000&color=1A63F7&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Arslan.)](https://git.io/typing-svg)
+
 ### Full-Stack Developer | Python, Django, DRF, Django Celery, Celery Workflow, VUE JS & Pinia
 
 I am a full-stack web application developer. I have a website and learning code for 3+ years and I have experience in Website development. 
